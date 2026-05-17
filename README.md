@@ -192,6 +192,8 @@ python server.py                   # Terminal 3
 python bot_v8.py                   # Terminal 4
 ```
 
+![Bot running](docs/terminal_startup.png)
+
 ---
 
 ## Setup
